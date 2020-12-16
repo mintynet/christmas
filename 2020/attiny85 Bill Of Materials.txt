@@ -1,0 +1,4 @@
+ATTINY85-20SU			C89852		https://lcsc.com/product-detail/MICROCHIP_Microchip-Tech-ATTINY85-20SU_C89852.html
+SMD USB mini			C10418		https://lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-C10418_C10418.html
+2 x 3 Pin Header		C225518		https://lcsc.com/product-detail/Pin-Header-Female-Header_CJT-Changjiang-Connectors-A2541WV-2x3P_C225518.html
+The 2x3 pin header is for a USBASP which you will need to program the attiny85 chips
