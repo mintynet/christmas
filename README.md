@@ -1,8 +1,22 @@
 # Christmas
-Attiny85 based led Christmas ornaments
+Attiny85 based led Christmas ornaments, pcbs were ordered from jlcpcb.com
 
 <br>2020 Candy Cane with 5 WS2812b Neopixels, uses ATTINY85-20SU on add on board which is programmed using ICSP usbasp, can be powered by usb micro or CR2032.
 <br>      Can be cascaded to more and run off a single MCU
+<br>![2020 front](2020/xmas-2020-front.png)
+<br>![2020 rear](2020/xmas-2020-rear.png)
+<br>![2020 schematic](2020/xmas-2020-circuit.png)
+<br>![attiny85 mini board front](2020/attiny85-mini-front.png)
+<br>![attiny85 mini board rear](2020/attiny85-mini-rear.png)
 <br>2019 Shooting Star with 5 WS2812b Neopixels, uses ATTINY85-20SU, powered by CR2032
+<br>![2019 front](2019/xmas-2019-front.png)
+<br>![2019 rear](2019/xmas-2019-rear.png)
+<br>![2019 schematic](2019/xmas-2019-circuit.png)
 <br>2018 Snowman with 1 WS2812b Neopixels, 4 charlieplexed leds, uses ATTINY85-20SU, powered by CR2032
+<br>![2018 front](2018/xmas-2018-front.png)
+<br>![2018 rear](2018/xmas-2018-rear.png)
+<br>![2018 schematic](2018/xmas-2018-circuit.png)
 <br>2017 Christmas tree with 10 charlieplexed leds, uses ATTINY85-20PU, powered by CR2032
+<br>![2017 front](2017/xmas-2017-front.png)
+<br>![2017 rear](2017/xmas-2017-rear.png)
+<br>![2017 schematic](2017/xmas-2017-circuit.png)
