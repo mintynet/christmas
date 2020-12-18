@@ -8,6 +8,7 @@ Attiny85 based led Christmas ornaments, schematics and gerbers were produced usi
 <br>![2020 schematic](2020/xmas-2020-circuit.png)
 <br>![attiny85 mini board front](2020/attiny85-mini-front.png)
 <br>![attiny85 mini board rear](2020/attiny85-mini-rear.png)
+<br>![attiny85 mini schematic](2020/attiny85-circuit.png)
 <br>2019 Shooting Star with 5 WS2812b Neopixels, uses ATTINY85-20SU, powered by CR2032
 <br>![2019 front](2019/xmas-2019-front.png)
 <br>![2019 rear](2019/xmas-2019-rear.png)
