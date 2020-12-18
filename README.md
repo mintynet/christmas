@@ -1,5 +1,5 @@
 # Christmas
-Attiny85 based led Christmas ornaments, pcbs were ordered from jlcpcb.com
+Attiny85 based led Christmas ornaments, schematics and gerbers were produced using https://www.easyeda.com and pcbs were ordered from https://jlcpcb.com
 
 <br>2020 Candy Cane with 5 WS2812b Neopixels, uses ATTINY85-20SU on add on board which is programmed using ICSP usbasp, can be powered by usb micro or CR2032.
 <br>      Can be cascaded to more and run off a single MCU
