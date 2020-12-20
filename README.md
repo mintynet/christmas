@@ -21,3 +21,4 @@ Attiny85 based led Christmas ornaments, schematics and gerbers were produced usi
 <br>![2017 front](2017/xmas-2017-front.png)
 <br>![2017 rear](2017/xmas-2017-rear.png)
 <br>![2017 schematic](2017/xmas-2017-circuit.png)
+<br><br>The ATTINY85-20SU can be swapped for the ATTINY45-20SU
