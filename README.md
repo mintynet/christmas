@@ -2,7 +2,6 @@
 Attiny85 based led Christmas ornaments, schematics and gerbers were produced using https://www.easyeda.com and pcbs were ordered from https://jlcpcb.com
 
 <br>2021 Snow flake with 12 charlieplexed leds, uses ATTINY85-20SU on add on board which is programmed using ICSP usbasp, can be powered by usb micro or CR2032.
-<br>      Can be cascaded to more and run off a single MCU
 <br>![2021 front](2021/xmas-2021-front.png)
 <br>![2021 rear](2021/xmas-2021-rear.png)
 <br>![2021 schematic](2021/xmas-2021-circuit.png)
