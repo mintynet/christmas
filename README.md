@@ -1,6 +1,10 @@
 # Christmas
 Attiny85 based led Christmas ornaments, schematics and gerbers were produced using https://www.easyeda.com and pcbs were ordered from https://jlcpcb.com
 
+<br>**2024** Present with 4 charlieplexed leds, uses ATTINY85-20PU, powered by CR2032.
+<br>![2024 front](2024/xmas-2024-front.png)
+<br>![2024 rear](2024/xmas-2024-rear.png)
+<br>![2024 schematic](2024/xmas-2024-circuit.png)
 <br>**2023** Fireplace with 4 charlieplexed leds and a WS2812b Neopixel, uses ATTINY85-20PU, powered by CR2032.
 <br>![2023 front](2023/xmas-2023-front.png)
 <br>![2023 rear](2023/xmas-2023-rear.png)
